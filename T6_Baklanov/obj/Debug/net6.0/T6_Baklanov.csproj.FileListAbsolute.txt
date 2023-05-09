@@ -1,0 +1,15 @@
+C:\Users\йывф\source\repos\T6_Baklanov\T6_Baklanov\bin\Debug\net6.0\T6_Baklanov.exe
+C:\Users\йывф\source\repos\T6_Baklanov\T6_Baklanov\bin\Debug\net6.0\T6_Baklanov.deps.json
+C:\Users\йывф\source\repos\T6_Baklanov\T6_Baklanov\bin\Debug\net6.0\T6_Baklanov.runtimeconfig.json
+C:\Users\йывф\source\repos\T6_Baklanov\T6_Baklanov\bin\Debug\net6.0\T6_Baklanov.dll
+C:\Users\йывф\source\repos\T6_Baklanov\T6_Baklanov\bin\Debug\net6.0\T6_Baklanov.pdb
+C:\Users\йывф\source\repos\T6_Baklanov\T6_Baklanov\obj\Debug\net6.0\T6_Baklanov.csproj.AssemblyReference.cache
+C:\Users\йывф\source\repos\T6_Baklanov\T6_Baklanov\obj\Debug\net6.0\T6_Baklanov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\йывф\source\repos\T6_Baklanov\T6_Baklanov\obj\Debug\net6.0\T6_Baklanov.AssemblyInfoInputs.cache
+C:\Users\йывф\source\repos\T6_Baklanov\T6_Baklanov\obj\Debug\net6.0\T6_Baklanov.AssemblyInfo.cs
+C:\Users\йывф\source\repos\T6_Baklanov\T6_Baklanov\obj\Debug\net6.0\T6_Baklanov.csproj.CoreCompileInputs.cache
+C:\Users\йывф\source\repos\T6_Baklanov\T6_Baklanov\obj\Debug\net6.0\T6_Baklanov.dll
+C:\Users\йывф\source\repos\T6_Baklanov\T6_Baklanov\obj\Debug\net6.0\refint\T6_Baklanov.dll
+C:\Users\йывф\source\repos\T6_Baklanov\T6_Baklanov\obj\Debug\net6.0\T6_Baklanov.pdb
+C:\Users\йывф\source\repos\T6_Baklanov\T6_Baklanov\obj\Debug\net6.0\T6_Baklanov.genruntimeconfig.cache
+C:\Users\йывф\source\repos\T6_Baklanov\T6_Baklanov\obj\Debug\net6.0\ref\T6_Baklanov.dll
