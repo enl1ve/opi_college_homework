@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "S7_Baklanov/1.0.0": {
+        "runtime": {
+          "S7_Baklanov.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S7_Baklanov/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

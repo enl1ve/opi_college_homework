@@ -1,0 +1,15 @@
+C:\Users\йывф\source\repos\S7_Baklanov\S7_Baklanov\bin\Debug\net6.0\S7_Baklanov.exe
+C:\Users\йывф\source\repos\S7_Baklanov\S7_Baklanov\bin\Debug\net6.0\S7_Baklanov.deps.json
+C:\Users\йывф\source\repos\S7_Baklanov\S7_Baklanov\bin\Debug\net6.0\S7_Baklanov.runtimeconfig.json
+C:\Users\йывф\source\repos\S7_Baklanov\S7_Baklanov\bin\Debug\net6.0\S7_Baklanov.dll
+C:\Users\йывф\source\repos\S7_Baklanov\S7_Baklanov\bin\Debug\net6.0\S7_Baklanov.pdb
+C:\Users\йывф\source\repos\S7_Baklanov\S7_Baklanov\obj\Debug\net6.0\S7_Baklanov.csproj.AssemblyReference.cache
+C:\Users\йывф\source\repos\S7_Baklanov\S7_Baklanov\obj\Debug\net6.0\S7_Baklanov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\йывф\source\repos\S7_Baklanov\S7_Baklanov\obj\Debug\net6.0\S7_Baklanov.AssemblyInfoInputs.cache
+C:\Users\йывф\source\repos\S7_Baklanov\S7_Baklanov\obj\Debug\net6.0\S7_Baklanov.AssemblyInfo.cs
+C:\Users\йывф\source\repos\S7_Baklanov\S7_Baklanov\obj\Debug\net6.0\S7_Baklanov.csproj.CoreCompileInputs.cache
+C:\Users\йывф\source\repos\S7_Baklanov\S7_Baklanov\obj\Debug\net6.0\S7_Baklanov.dll
+C:\Users\йывф\source\repos\S7_Baklanov\S7_Baklanov\obj\Debug\net6.0\refint\S7_Baklanov.dll
+C:\Users\йывф\source\repos\S7_Baklanov\S7_Baklanov\obj\Debug\net6.0\S7_Baklanov.pdb
+C:\Users\йывф\source\repos\S7_Baklanov\S7_Baklanov\obj\Debug\net6.0\S7_Baklanov.genruntimeconfig.cache
+C:\Users\йывф\source\repos\S7_Baklanov\S7_Baklanov\obj\Debug\net6.0\ref\S7_Baklanov.dll
